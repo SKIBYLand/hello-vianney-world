@@ -11,7 +11,10 @@ Until 2025 I've been working as a Designer. Then I noticed a feeling of limitati
 >But coding and webdesign was taking day-by-day place in my mind and work experience 
 (Webdesign and Coding was easier to understand than graphic design actually).
 >
-<br>2024 was a "Annee sabatique" I used to examine my wishes my carreer: I was trying to understand "If I'll get employed by getting skilled as a Developper?". I done have the answer yet in this 2025 year (Even though I smell a good choice).
+<br>2024 was a *"Année sabatique"*. I used to examine my wishes, my carreer. I was trying to understand: 
+>"If I'll get employed by getting skilled as a Developper, without engineering studies?"<br> I'm studying languages and framework to start working as a DEVELOPPER by August 2025. 
+>
+*Then I noticed I've been always working in **webdesign**. This is just a <mark>succesive millestone.<mark>*
 <br>By the way, you can visit [my website](https://kanahvianney.com) to see my previous relevant stuff (there are some UX/UI Design projects.).
 <br> Thanks for attention.
 <br> Feel free to come back later to see my contributions. **^_^**
